@@ -1,0 +1,57 @@
+﻿  pch.cpp
+  MovementComponent.cpp
+  AIComponent.cpp
+  DigDugGhostComponent.cpp
+  DigDugHealthComponent.cpp
+  DigDugInflateComponent.cpp
+  DigDugMapComponent.cpp
+  DigDugWeaponComponent.cpp
+  EndSceen.cpp
+  CoopScene.cpp
+  DigDug.cpp
+  Game.cpp
+  PointsManager.cpp
+  SoloScene.cpp
+  StartScene.cpp
+  VersusScene.cpp
+     Creating library C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\Release\DigDug.lib and object C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\Release\DigDug.exp
+  Generating code
+  All 3208 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DigDug.vcxproj -> C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\Release\DigDug.exe
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\libjpeg-9.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\libpng16-16.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\libtiff-5.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\libwebp-7.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\SDL2_image.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_image\lib\x86\zlib1.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_ttf\lib\x86\libfreetype-6.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_ttf\lib\x86\SDL2_ttf.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libFLAC-8.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libmodplug-1.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libmpg123-0.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libogg-0.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libopus-0.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libopusfile-0.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libvorbis-0.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\libvorbisfile-3.dll
+  1 File(s) copied
+  C:\Users\wanne\Desktop\DAE lessons\Year 2\Semester 2\Programming 4\Engines\Engine\Exam_Assignment\3rdParty\SDL2_mixer\lib\x86\SDL2_mixer.dll
+  1 File(s) copied
